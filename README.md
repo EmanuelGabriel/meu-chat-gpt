@@ -38,7 +38,7 @@ curl --location --request GET '127.0.0.1:8080/chat?mensagemRequest==como vai voc
 ```json
 {
   "code": 200,
-  "mensagem": "success",
+  "mensagem": "sucesso",
   "resposta": "\n\nEu estou fazendo o bem, obrigado. E você?"
 }
 ```
